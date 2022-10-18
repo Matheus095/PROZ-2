@@ -1,0 +1,6 @@
+Sabendo que em todas as linhas da imagem 2 temos organizado 2 ou 4 alunos que gostam de matemática ou de portugues, esta 
+sequencia é interrompida na imagem 3, pois na penúltima linha se igualam 3 para cada matéria quebrando a sequencia lógica 
+da imagem anterior.
+
+Para descobrir a cadeira em que houve a troca, o professor analisou que: Se o ultimo aluno da fileira anterior gosta de
+portugues o penultimo aluno da proxima fileira gosta da mesma matéria e esta lógica se ajusta na 3 imagem.
